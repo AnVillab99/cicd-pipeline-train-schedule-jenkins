@@ -16,7 +16,5 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 
 ##
 andres villamil 
-2130104
-aaa
-a
+
 aaaaaaa
